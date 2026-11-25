@@ -30,7 +30,7 @@ Grabwell uses two open-source tools: **yt-dlp** finds and downloads media, and *
 
 ## Privacy
 
-Grabwell has no account, no analytics and no tracking. It connects only to the pages you open, to the official release pages of yt-dlp and ffmpeg when it installs or updates them, and to Apple's notification service if you allow notifications. Logins you make in its browser stay on your Mac. They are shared with the download engine only for the download you start, through a private file that is deleted afterwards.
+Grabwell has no account, no analytics and no tracking. It connects only to the pages you open, and to the official release pages of yt-dlp and ffmpeg when it installs or updates them. Its notifications are shown locally by your Mac. Logins you make in its browser stay on your Mac. They are shared with the download engine only for the download you start, through a private file that is deleted afterwards.
 
 ## Please use it fairly
 
@@ -44,4 +44,4 @@ Found a bug or a page that won't download? [Open an issue](https://github.com/pe
 
 Grabwell is free to download and use. See [LICENSE.md](LICENSE.md) for the terms and [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md) for the open-source tools it works with.
 
-Made by Perseus Sepahi.
+Made by Perseus Sepahi. More at [perseus-sepahi.github.io/software/grabwell](https://perseus-sepahi.github.io/software/grabwell/).
